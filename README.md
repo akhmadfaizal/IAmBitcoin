@@ -1,4 +1,4 @@
-# i_am_bitcoin
+# I Am Bitcoin
 
 A new Flutter application.
 
